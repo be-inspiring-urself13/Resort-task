@@ -1,0 +1,199 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header {
+    h1 {
+        color: white;
+    }
+
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+ul,
+li {
+    display: inline;
+    margin-right: 10px;
+    color: grey;
+    cursor: pointer;
+
+
+}
+
+li:hover {
+    color: white;
+
+}
+
+.room1 {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    height: 460px;
+    width: 480px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.room2 {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    height: 460px;
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.room3 {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    height: 460px;
+    width: 480px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Rooms {
+    text-align: center
+}
+
+.room1:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.room2:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.room3:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.food1:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.food2:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.food3:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.food4:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.food1 {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    height: 470px;
+    width: 220px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.food2 {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    height: 470px;
+    width: 220px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.food3 {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    height: 470px;
+    width: 220px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.food4 {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    height: 470px;
+    width: 260px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h3 {
+    text-align: center;
+    cursor: progress;
+    color: brown;
+
+}
+
+.foods {
+    text-align: center
+}
+
+.button {
+    background-color: orangered;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.button:hover {
+
+    color: white;
+}
+
+#contact {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    padding: 30px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: gray;
+}
+
+.spot {
+    background-color: yellowgreen;
+    color: black;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.spot:hover {
+    color: white;
+}
